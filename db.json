@@ -61,9 +61,11 @@
         {"id":1,"src":"https://i.ibb.co/jwtM0q6/film1.webp" , "alt":"film"},
         {"id":2,"src":"https://i.ibb.co/9YMv0mz/film2.webp" , "alt":"film"},
         {"id":3,"src":"https://i.ibb.co/K5htqMw/film3.webp" , "alt":"film"},
-        {"id":4,"src":"https://i.ibb.co/nn1bfx4/serial4.webp" , "alt":"serial"},
-        {"id":5,"src":"https://i.ibb.co/P59fNmw/serial5.webp" , "alt":"serial"},
-        {"id":6,"src":"https://i.ibb.co/t2dgj2s/serial6.webp" , "alt":"serial"}
+         {"id":4,"src":"https://i.ibb.co/t2dgj2s/serial6.webp" , "alt":"serial"},
+         {"id":5,"src":"https://i.ibb.co/P59fNmw/serial5.webp" , "alt":"serial"},
+        {"id":6,"src":"https://i.ibb.co/nn1bfx4/serial4.webp" , "alt":"serial"}
+       
+       
     ],
     "serials":[
         {"id":1,"title":"اسکار","director":"مهران مدیری",
